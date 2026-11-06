@@ -1,0 +1,4 @@
+mes,ceco,cuenta,monto_real,monto_ppto,estatus_gasto,nombre_ceco,descripcion_cuenta,variacion_neta,porcentaje_cumplimiento
+2026-01,5010,5100100,1800.5,2000.0,EN ORDEN / AHORRO,MANTENIMIENTO,Repuestos y Refacciones,-199.5,90.02
+2026-01,5020,5200200,3200.0,3000.0,SOBREPRESUPUESTO,PRODUCCION,Insumos de Planta,200.0,106.67
+2026-01,5030,5300300,1200.0,1200.0,EN ORDEN / AHORRO,LOGISTICA,Combustibles y Fletes,0.0,100.0
